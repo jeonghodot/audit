@@ -1,0 +1,12 @@
+[{ 
+	"xpath": "//*[@text='@ 포함 전체 ']",
+	"text": "swqagovernance@gmail.com",
+	"actions": ["MODEL_CLICK"],
+	"throttle": 50000
+},
+{ 	"xpath": "//*[@text='특수문자 + 영']",
+	"text": "gigagenie3#",
+	"actions": ["MODEL_CLICK"],
+	"throttle": 50000
+}]
+

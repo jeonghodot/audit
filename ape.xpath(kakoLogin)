@@ -1,0 +1,6 @@
+[{ 
+	"xpath": "//*[@text='Kakao 계정']",
+	"actions": ["MODEL_CLICK"],
+	"throttle": 500
+}]
+
